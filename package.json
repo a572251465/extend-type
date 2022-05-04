@@ -1,0 +1,30 @@
+{
+  "name": "extend-type",
+  "version": "1.0.1",
+  "description": "",
+  "typings": "./types/index.d.ts",
+  "files": [
+    "types"
+  ],
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a572251465/extend-type.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a572251465/extend-type/issues"
+  },
+  "homepage": "https://github.com/a572251465/extend-type#readme",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "prettier": "^2.6.2"
+  }
+}
